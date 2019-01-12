@@ -1,3 +1,6 @@
+* [Workshop Goals](#workshop-goals)
+* [Schedule of Events](#schedule-of-events)
+
 ## Workshop Goals
 
 1. Discuss research progress in the current SBIR projects, with the goal of information sharing and productive feedback
