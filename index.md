@@ -122,6 +122,7 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 # Sponsors
 
 * [Arizona State University](http://www.asu.edu/)
-** [School of Life Sciences](http://sols.asu.edu/)
-** [School of Sustainability](http://schoolofsustainability.asu.edu/)
-** [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
+  * [School of Life Sciences](http://sols.asu.edu/)
+  * [School of Sustainability](http://schoolofsustainability.asu.edu/)
+  * [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
+* [Boston Fusion](http://bostonfusion.com/)
