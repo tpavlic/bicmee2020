@@ -17,9 +17,9 @@ You may download the [workshop program](WIIMS2019_program.pdf) or view details a
 
 # Schedule of events
 
-Talk lengths are listed after each speaker’s name and include time for questions and answers.
+The 1.5-day event takes place over January 14–15, 2019. Although no meals are provided, bagels and coffee will be provided at certain times on both days.
 
-## Monday, 14 January 2018
+## Monday, 14 January 2019
 
 |             | Breakfast |
 | ----------- | --------- |
@@ -83,7 +83,7 @@ Talk lengths are listed after each speaker’s name and include time for questio
 | ----------- | ------------ |
 |             | At a local restaurant (TBD) |
 
-## Tuesday, 15 January 2018
+## Tuesday, 15 January 2019
 
 |             | Breakfast |
 | ----------- | --------- |
