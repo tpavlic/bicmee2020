@@ -1,6 +1,6 @@
 WIIMS 2019 gathers various DARPA performers (and their potential collaborators) who ahve interests in insect-inspired modeling of social behavior. The meeting will focus on sharing progress and potential ideas for future work in this area. The meeting will be hosted at [Arizona State University](http://www.asu.edu/) within the facilities of the [Global Biosocial Complexity Initiative](https://complexity.asu.edu/). Attendance to the meeting is free.
 
-You may download the [workshop program|WIIMS2019_program.pdf] or view details about the event below.
+You may download the [workshop program](WIIMS2019_program.pdf) or view details about the event below.
 
 * [Workshop Goals](#workshop-goals)
 * [Schedule of Events](#schedule-of-events)
