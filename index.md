@@ -1,17 +1,25 @@
+WIIMS 2019 gathers various DARPA performers (and their potential collaborators) who ahve interests in insect-inspired modeling of social behavior. The meeting will focus on sharing progress and potential ideas for future work in this area. The meeting will be hosted at [Arizona State University](http://www.asu.edu/) within the facilities of the [Global Biosocial Complexity Initiative](https://complexity.asu.edu/). Attendance to the meeting is free.
+
+You may download the [workshop program|WIIMS2019_program.pdf] or view details about the event below.
+
 * [Workshop Goals](#workshop-goals)
 * [Schedule of Events](#schedule-of-events)
+* [Meeting Location](#meeting-location)
+* [Nearby Lodging](#meeting-location)
+* [Organizing Committee](#organizing-committee)
+* [Sponsors](#sponsors)
 
-## Workshop Goals
+# Workshop Goals
 
 1. Discuss research progress in the current SBIR projects, with the goal of information sharing and productive feedback
 1. Discuss potential future directions for insect-inspired research, including the role that social insect research may play in potential DARPA initiatives
 1. Identify potential synergies in our current and future research programs
 
-## Schedule of events
+# Schedule of events
 
 Talk lengths are listed after each speaker’s name and include time for questions and answers.
 
-### Monday, 14 January 2018:
+## Monday, 14 January 2018
 
 |             | Breakfast |
 | ----------- | --------- |
@@ -66,7 +74,7 @@ Talk lengths are listed after each speaker’s name and include time for questio
 | ----------- | ------------ |
 | 15:30–15:45 | Coffee will be provided |
 
-| 15:45–17:45 | Strategic Round Table Discussion |
+| 15:45–17:45 | Strategic Round-Table Discussion |
 | ----------- | -------------------------------- |
 |             | What value have SBIR projects brought so far? |
 |             | Where can we go from here? (identify challenge problems) |
@@ -74,3 +82,46 @@ Talk lengths are listed after each speaker’s name and include time for questio
 | 18:00 | DINNER (optional) |
 | ----------- | ------------ |
 |             | At a local restaurant (TBD) |
+
+## Tuesday, 15 January 2018
+
+|             | Breakfast |
+| ----------- | --------- |
+| 09:00       | Bagels and coffee will be available |
+
+| 10:00–12:30 | Breakout Discussions |
+| ----------- | -------------------------------- |
+|             | Brainstorming potential future directions for social-insect-inspired research with DARPA |
+
+|             | OPTIONAL LUNCH (not provided) |
+| ----------- | ------------------------- |
+| 12:30 | Meeting concludes after lunch |
+
+# Meeting Location
+
+Meetings on both days will all take place at the Center for Social Dynamics and Complexity (CDSC) in room ECA A101. Breakfast and coffee breaks will be provided on-site. Restaurants for lunch on the 15th and dinner on the 14th will be within walking distance most likely, but exact venues are TBD.
+
+# Nearby Lodging
+
+There are several hotels near the ASU Tempe campus. Two that are particularly close to the meeting location are:
+
+| The Graduate                          | Moxy |
+| ------------------------------------- | ---------------------------- |
+| 225 E. Apache Blvd                    | 1333 S. Rural Rd             |
+| Tempe, AZ  85281                      | Tempe, AZ  85281             |
+| (480) 967-9431                        | (480) 968-3451               |
+| https://www.graduatehotels.com/tempe/ | http://moxy-hotels.marriott.com/en/hotels/tempe |
+
+# Organizing Committee
+
+* Kaitlin Baudier (kbaudier@asu.edu), ASU (chair)
+* Jennifer Fewell (j.fewell@asu.edu), ASU
+* Stephen Pratt (Stephen.Pratt@asu.edu), ASU
+* Thedoore (Ted) Pavlic (tpavlic@asu.edu), ASU
+
+# Sponsors
+
+* [Arizona State University](http://www.asu.edu/)
+** [School of Life Sciences](http://sols.asu.edu/)
+** [School of Sustainability](http://schoolofsustainability.asu.edu/)
+** [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
