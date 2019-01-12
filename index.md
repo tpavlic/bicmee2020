@@ -25,8 +25,9 @@ Talk lengths are listed after each speaker’s name and include time for questio
 | 09:40–09:50 | Kaitlin Baudier, ASU |
 | 09:50–10:00 | Bradley West, Boston Fusion |
 
-| 10:00–10:30 | COFFEE BREAK |
+|             | COFFEE BREAK |
 | ----------- | ------------ |
+| 10:00–10:30 | Coffee will be provided |
 
 |             | SBIR Project: BISECT |
 | ----------- | -------------------- |
@@ -58,8 +59,9 @@ Talk lengths are listed after each speaker’s name and include time for questio
 | ----------- | -------------- |
 | 15:15–15:30 | Meghan Bennett, ASU |
 
-| 15:30–15:45 | COFFEE BREAK |
+|             | COFFEE BREAK |
 | ----------- | ------------ |
+| 15:30–15:45 | Coffee will be provided |
 
 | 15:45–17:45 | Strategic Round Table Discussion |
 | ----------- | -------------------------------- |
