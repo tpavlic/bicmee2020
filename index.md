@@ -105,12 +105,12 @@ Meetings on both days will all take place at the Center for Social Dynamics and 
 
 There are several hotels near the ASU Tempe campus. Two that are particularly close to the meeting location are:
 
-| The Graduate                          | Moxy |
-| ------------------------------------- | ---------------------------- |
-| 225 E. Apache Blvd                    | 1333 S. Rural Rd             |
-| Tempe, AZ  85281                      | Tempe, AZ  85281             |
+| The Graduate                            | Moxy |
+| --------------------------------------- | ---------------------------- |
+| 225 E. Apache Blvd                      | 1333 S. Rural Rd             |
+| Tempe, AZ  85281                        | Tempe, AZ  85281             |
 | (480) 967-9431                        | (480) 968-3451               |
-| https://www.graduatehotels.com/tempe/ | http://moxy-hotels.marriott.com/en/hotels/tempe |
+| [https://www.graduatehotels.com/tempe/] | [http://moxy-hotels.marriott.com/en/hotels/tempe] |
 
 # Organizing Committee
 
