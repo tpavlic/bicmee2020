@@ -109,7 +109,7 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 | --------------------------------------- | ---------------------------- |
 | 225 E. Apache Blvd                      | 1333 S. Rural Rd             |
 | Tempe, AZ  85281                        | Tempe, AZ  85281             |
-| (480) 967-9431                        | (480) 968-3451               |
+| (480) 967-9431                          | (480) 968-3451               |
 | [https://www.graduatehotels.com/tempe/] | [http://moxy-hotels.marriott.com/en/hotels/tempe] |
 
 # Organizing Committee
