@@ -130,8 +130,8 @@ This workshop can take place due to support in some form from:
 * [Boston Fusion](http://bostonfusion.com/)
 * [DARPA](http://www.darpa.mil/)
 
-[![Arizona State University](asu_logo.png){:height="100px"}](http://www.asu.edu/)
+[![Arizona State University](asu_logo.png){:height="50px"}](http://www.asu.edu/)
 
-[![Boston Fusion](bf_logo.png){:height="100px"}](http://bostonfusion.com/)
+[![Boston Fusion](bf_logo.png){:height="50px"}](http://bostonfusion.com/)
 
-[![DARPA](darpa_logo.jpg){:height="100px"}](http://www.darpa.mil/)
+[![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
