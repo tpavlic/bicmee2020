@@ -101,13 +101,12 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 
 Meetings on both days will all take place within the Global Bio-Social Complexity Initiative facilities in room [ECA A101](https://maps.asu.edu/?id=120&mrkIid=62890). Breakfast and coffee breaks will be provided on-site. Restaurants for lunch on the 15th and dinner on the 14th will be within walking distance most likely, but exact venues are TBD.
 
-| Global Biosocial Complexity Initiative |
-| -------------------------------------- |
-| Engineering Center A (ECA), Room A101  |
-| 1031 S. Palm Walk |
-| Tempe, AZ  85281 |
+Global Biosocial Complexity Initiative<br>
+[Engineering Center A (ECA)](https://maps.asu.edu/?id=120&mrkIid=62890), Room A101<br>
+[1031 S. Palm Walk](https://goo.gl/maps/D7fx6AnTN8M2)<br>
+Tempe, AZ  85281
 
-![Engineering Center A](eca.png)](https://maps.asu.edu/?id=120&mrkIid=62890)
+[![Engineering Center A](eca.png)](https://maps.asu.edu/?id=120&mrkIid=62890)
 
 
 # Nearby Lodging
