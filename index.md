@@ -21,7 +21,7 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 
 ## Monday, 14 January 2019
 
-|             | Breakfast |
+|             | MORNING REFRESHMENTS |
 | ----------- | --------- |
 | 08:00       | Bagels and coffee will be available for the morning session |
 
@@ -79,13 +79,13 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 |             | What value have SBIR projects brought so far? |
 |             | Where can we go from here? (identify challenge problems) |
 
-| 18:00 | DINNER (optional) |
+| 18:00 | OPTIONAL DINNER (not provided) |
 | ----------- | ------------ |
 |             | At a local restaurant (TBD) |
 
 ## Tuesday, 15 January 2019
 
-|             | Breakfast |
+|             | MORNING REFRESHMENTS |
 | ----------- | --------- |
 | 09:00       | Bagels and coffee will be available |
 
