@@ -122,10 +122,10 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 
 # Organizing Committee
 
-* Kaitlin Baudier (kbaudier@asu.edu), ASU (chair)
-* Jennifer Fewell (j.fewell@asu.edu), ASU
-* Stephen Pratt (Stephen.Pratt@asu.edu), ASU
-* Thedoore (Ted) Pavlic (tpavlic@asu.edu), ASU
+* Kaitlin Baudier ([kbaudier@asu.edu](mailto:kbaudier@asu.edu)), ASU (chair)
+* Jennifer Fewell ([j.fewell@asu.edu](mailto:j.fewell@asu.edu)), ASU
+* Stephen Pratt ([Stephen.Pratt@asu.edu](mailto:Stephen.Pratt@asu.edu)), ASU
+* Thedoore (Ted) Pavlic ([tpavlic@asu.edu](mailto:tpavlic@asu.edu)), ASU
 
 # Sponsors
 
