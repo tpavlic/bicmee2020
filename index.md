@@ -121,11 +121,14 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 
 # Sponsors
 
+This workshop can take place due to support in some form from:
+
 * [Arizona State University](http://www.asu.edu/)
   * [School of Life Sciences](http://sols.asu.edu/)
   * [School of Sustainability](http://schoolofsustainability.asu.edu/)
   * [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
 * [Boston Fusion](http://bostonfusion.com/)
+* [DARPA](http://www.darpa.mil/)
 
 [![Arizona State University](asu_logo.png){:height="100px"}](http://www.asu.edu/)
 
