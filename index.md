@@ -128,7 +128,9 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 * [Boston Fusion](http://bostonfusion.com/)
 
 <p align="center">
+ 
 [![Arizona State University](asu_logo.png){:height="100px"}](http://www.asu.edu/)
 [![Boston Fusion](bf_logo.png){:height="100px"}](http://bostonfusion.com/)
 [![DARPA](darpa_logo.jpg){:height="100px"}](http://www.darpa.mil/)
+
 </p>
