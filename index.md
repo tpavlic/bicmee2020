@@ -131,7 +131,5 @@ This workshop can take place due to support in some form from:
 * [DARPA](http://www.darpa.mil/)
 
 [![Arizona State University](asu_logo.png){:height="50px"}](http://www.asu.edu/)
-
 [![Boston Fusion](bf_logo.png){:height="50px"}](http://bostonfusion.com/)
-
 [![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
