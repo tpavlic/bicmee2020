@@ -118,7 +118,7 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 | 225 E. Apache Blvd                      | 1333 S. Rural Rd             |
 | Tempe, AZ  85281                        | Tempe, AZ  85281             |
 | (480) 967-9431                          | (480) 968-3451               |
-| https://www.graduatehotels.com/tempe/   |  http://moxy-hotels.marriott.com/en/hotels/tempe  |
+| <a target="_blank" href="https://www.graduatehotels.com/tempe/">https://www.graduatehotels.com/tempe/</a>   |  <a target="_blank" href="http://moxy-hotels.marriott.com/en/hotels/tempe">http://moxy-hotels.marriott.com/en/hotels/tempe</a>  |
 
 # Organizing Committee
 
@@ -129,14 +129,15 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
 
 # Sponsors
 
+This workshop can take place due to support in some form from:
+
 * [Arizona State University](http://www.asu.edu/)
   * [School of Life Sciences](http://sols.asu.edu/)
   * [School of Sustainability](http://schoolofsustainability.asu.edu/)
   * [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
 * [Boston Fusion](http://bostonfusion.com/)
+* [DARPA](http://www.darpa.mil/)
 
-<p align="center">
-[![Arizona State University](asu_logo.png){:height="100px"}](http://www.asu.edu/)
-[![Boston Fusion](bf_logo.png){:height="100px"}](http://bostonfusion.com/)
-[![DARPA](darpa_logo.jpg){:height="100px"}](http://www.darpa.mil/)
-</p>
+[![Arizona State University](asu_logo.png){:height="50px"}](http://www.asu.edu/)<br>
+[![Boston Fusion](bf_logo.png){:height="50px"}](http://bostonfusion.com/)<br>
+[![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
