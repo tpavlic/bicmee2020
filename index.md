@@ -127,6 +127,6 @@ There are several hotels near the ASU Tempe campus. Two that are particularly cl
   * [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
 * [Boston Fusion](http://bostonfusion.com/)
 
-[![Arizona State University](asu_logo.png =100)](http://www.asu.edu/)
-[![Boston Fusion](bf_logo.png =100)](http://bostonfusion.com/)
-[![DARPA](darpa_logo.jpg =100)](http://www.darpa.mil/)
+[![Arizona State University](asu_logo.png){:width="100px")](http://www.asu.edu/)
+[![Boston Fusion](bf_logo.png){:width="100px"}](http://bostonfusion.com/)
+[![DARPA](darpa_logo.jpg){:width="100px"}](http://www.darpa.mil/)
