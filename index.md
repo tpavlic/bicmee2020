@@ -21,7 +21,7 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 
 ## Monday, 14 January 2019
 
-|             | Breakfast |
+|             | MORNING REFRESHMENTS |
 | ----------- | --------- |
 | 08:00       | Bagels and coffee will be available for the morning session |
 
@@ -79,13 +79,13 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 |             | What value have SBIR projects brought so far? |
 |             | Where can we go from here? (identify challenge problems) |
 
-| 18:00 | DINNER (optional) |
+| 18:00 | OPTIONAL DINNER (not provided) |
 | ----------- | ------------ |
 |             | At a local restaurant (TBD) |
 
 ## Tuesday, 15 January 2019
 
-|             | Breakfast |
+|             | MORNING REFRESHMENTS |
 | ----------- | --------- |
 | 09:00       | Bagels and coffee will be available |
 
@@ -101,12 +101,12 @@ The 1.5-day event takes place over January 14–15, 2019. Although no meals are 
 
 Meetings on both days will all take place within the Global Bio-Social Complexity Initiative facilities in room [ECA A101](https://maps.asu.edu/?id=120&mrkIid=62890). Breakfast and coffee breaks will be provided on-site. Restaurants for lunch on the 15th and dinner on the 14th will be within walking distance most likely, but exact venues are TBD.
 
-Global Biosocial Complexity Initiative
-Engineering Center A (ECA), Room A101
-1031 S. Palm Walk
+Global Biosocial Complexity Initiative<br>
+[Engineering Center A (ECA)](https://maps.asu.edu/?id=120&mrkIid=62890), Room A101<br>
+[1031 S. Palm Walk](https://goo.gl/maps/D7fx6AnTN8M2)<br>
 Tempe, AZ  85281
 
-![Engineering Center A](eca.png){:height="400px"}](https://maps.asu.edu/?id=120&mrkIid=62890)
+[![Engineering Center A](eca.png)](https://maps.asu.edu/?id=120&mrkIid=62890)
 
 
 # Nearby Lodging
