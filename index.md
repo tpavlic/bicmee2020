@@ -3,9 +3,7 @@ WIIMS 2019 gathers various DARPA performers (and their potential collaborators) 
 You may download the [workshop program](WIIMS2019_program.pdf) or view details about the event below.
 
 * [Workshop Goals](#workshop-goals)
-* [Schedule of Events](#schedule-of-events)
-  * [Monday, 14 January 2019](#monday-14-january-2019)
-  * [Tuesday, 15 January 2019](#tuesday-15-january-2019)
+* [Schedule of Events](#schedule-of-events) ([Monday](#monday-14-january-2019), [Tuesday](#tuesday-15-january-2019))
 * [Meeting Location](#meeting-location)
 * [Nearby Lodging](#meeting-location)
 * [Organizing Committee](#organizing-committee)
