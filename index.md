@@ -73,9 +73,10 @@ Tempe, AZ  85281
 
 ## Parking on Campus
 
-The Rural Road parking structure is a convenient location to park for
-workshop attendees. Take a ticket when entering the garage and pay when
-exiting either at kiosks or at the actual exit gates.
+The Rural Road parking structure (see [map above](#meeting-location)) is
+a convenient location to park for workshop attendees. Take a ticket when
+entering the garage and pay when exiting either at kiosks or at the
+actual exit gates.
 
 From the Rural Road parking structure:
 * Walk west toward McAllister Ave.
