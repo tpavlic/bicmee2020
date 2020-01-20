@@ -67,9 +67,9 @@ The workshop will take place in [Goldwater Center (GWC), Room 487](https://gis.m
 [650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA) [(Google Maps link)](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
 Tempe, AZ  85281
 
-[![ASU Map](ASUmap.png "Annotated Map of ASU"){:width="400px"}](ASUmap.png)
+[![ASU Map](ASUmap.png "Annotated Map of ASU"){:width="500px"}](ASUmap.png)
 
-![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="200px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="200px"}
+![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="225px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="225px"}
 
 ## Parking on Campus
 
