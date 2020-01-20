@@ -67,18 +67,26 @@ The workshop will take place in [Goldwater Center (GWC), Room 487](https://gis.m
 [650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
 Tempe, AZ  85281
 
-![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="150px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="300px"}
+[![ASU Map](ASUmap.jpg "Annotated Map of ASU"){:height="200px"}](https://goo.gl/maps/JqzLdjv2vGUncwiRA)
+
+![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="200px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="200px"}
 
 # Nearby Lodging
 
 There are several hotels near the ASU Tempe campus. Two that are particularly close to the meeting location are:
 
-| The Graduate                            | Moxy |
+| The Graduate (Apache and College)       | Moxy (Apache and Rural) |
 | --------------------------------------- | ---------------------------- |
 | 225 E. Apache Blvd                      | 1333 S. Rural Rd             |
 | Tempe, AZ  85281                        | Tempe, AZ  85281             |
 | (480) 967-9431                          | (480) 968-3451               |
 | <a target="_blank" href="https://www.graduatehotels.com/tempe/">https://www.graduatehotels.com/tempe/</a>   |  <a target="_blank" href="http://moxy-hotels.marriott.com/en/hotels/tempe">http://moxy-hotels.marriott.com/en/hotels/tempe</a>  |
+
+Other walkable options to consider are (ordered by proximity):
+* [Holiday Inn Express Tempe](https://www.ihg.com/holidayinnexpress/hotels/us/en/tempe/phxwb/hoteldetail) (Apache and Rural)
+* [Super 8 Motel Tempe](https://www.wyndhamhotels.com/super-8/tempe-arizona/super-8-tempe-asu-airport/overview) (Apache and Rural)
+* [Residence Inn DOWNTOWN Tempe](https://www.marriott.com/hotels/travel/phxrt-residence-inn-tempe/) (Forest and 5th)
+* [Courtyard by Marriott Tempe Downtown](https://www.marriott.com/hotels/travel/phxte-courtyard-tempe-downtown/) (Ash and 6th St.)
 
 # Local Organizing Committee
 
