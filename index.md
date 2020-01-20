@@ -1,13 +1,18 @@
-**BICMEE 2020** gathers experts (including DARPA micro-BRAIN performers), who have interests in Bio-Inspired Computing for Miniaturization and Energy Efficiency. The meeting will focus on sharing progress and potential ideas for future work in this area. The meeting will be hosted at [Arizona State University](http://www.asu.edu/) with support from the [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/). Attendance is free, but due to limited seating, registration is required.
+**BICMEE 2020** gathers experts (including DARPA micro-BRAIN performers), who have interests in Bio-Inspired Computing for Miniaturization and Energy Efficiency. The meeting will focus on sharing progress and potential ideas for future work in this area. The meeting will be hosted at [Arizona State University](http://www.asu.edu/) with support from the [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/). Attendance is free, but due to limited seating, [**registration in advance**](http://bit.ly/bicmee2020registration) is required.
 
 You may download the [workshop program](BICMEE2020_program.pdf) or view details about the event below.
 
+* [Registration](#registration)
 * [Workshop Goals](#workshop-goals)
 * [Schedule of Events](#schedule-of-events) ([Monday](#monday-14-january-2019), [Tuesday](#tuesday-15-january-2019))
 * [Meeting Location](#meeting-location)
 * [Nearby Lodging](#meeting-location)
 * [Local Organizing Committee](#local-organizing-committee)
 * [Sponsors](#sponsors)
+
+# Registration
+
+Although attendance to BICMEE 2020 is free, [**registration in advance**](http://bit.ly/bicmee2020registration) is required because of space limitations for the workshop. If you wish to attend the workshop, register at: [https://tpavlic.github.io/bicmee2020/](https://tpavlic.github.io/bicmee2020/)
 
 # Workshop Goals
 
