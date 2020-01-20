@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: WIIMSB 2019
-description: 2019 Workshop on Insect-Inspired Models for Social Behavior
-logo: weaver_ants_soursop.jpg
+title: BICMEE 2020
+description: 2020 Workshop on Bio-Inspired Computing for Miniaturization and Energy Efficiency
+logo: locust_brain.jpg
 
 github:
   is_project_page: false
