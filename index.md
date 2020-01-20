@@ -12,7 +12,7 @@ You may download the [workshop program](BICMEE2020_program.pdf) or view details 
 
 # Registration
 
-Although attendance to BICMEE 2020 is free, [**registration in advance**](http://bit.ly/bicmee2020registration) is required because of space limitations for the workshop. If you wish to attend the workshop, register at: [https://tpavlic.github.io/bicmee2020/](https://tpavlic.github.io/bicmee2020/)
+Although attendance to BICMEE 2020 is free, [**registration in advance**](http://bit.ly/bicmee2020registration) is required because of space limitations for the workshop. If you wish to attend the workshop, register at: [http://bit.ly/bicmee2020registration](https://bit.ly/bicmee2020registration)
 
 # Workshop Goals
 
