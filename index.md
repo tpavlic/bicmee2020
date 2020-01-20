@@ -71,6 +71,18 @@ Tempe, AZ  85281
 
 ![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="200px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="200px"}
 
+## Parking and Walking on Campus
+
+The Rural Road parking structure is a convenient location to park for
+workshop attendees. Take a ticket when entering the garage and pay when
+exiting either at kiosks or at the actual exit gates.
+
+From the Rural Road parking structure:
+* Walk west toward McAllister Ave.
+* Walk north on McAlister
+* Use crosswalk between Psychology Bldg and Biodesign Bldg B
+* Walk west until encountering Goldwater on your right
+
 # Nearby Lodging
 
 There are several hotels near the ASU Tempe campus. Two that are particularly close to the meeting location are:
