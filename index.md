@@ -1,6 +1,6 @@
-<div align="center">
+{div align="center"}
 [![Arizona State University Ira A. Fulton Schools of Engineering](asu_fse_logo.png){:height="50px"}](http://engineering.asu.edu/) [![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
-</div>
+{/div}
 
 **BICMEE 2020** gathers experts (including DARPA micro-BRAIN performers), who have interests in Bio-Inspired Computing for Miniaturization and Energy Efficiency. The meeting will focus on sharing progress and potential ideas for future work in this area. The meeting will be hosted at [Arizona State University](http://www.asu.edu/) with support from the [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/). Attendance is free, but due to limited seating, [**registration in advance**](http://bit.ly/bicmee2020registration) is required.
 
