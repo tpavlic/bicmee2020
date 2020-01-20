@@ -67,7 +67,7 @@ The workshop will take place in [Goldwater Center (GWC), Room 487](https://gis.m
 [650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
 Tempe, AZ  85281
 
-| ![GWC 487 Room](GWC487.jpg){:height="150px"}<br>![GWC 487 Room](GWC487.jpg){:height="150px"} | ![GWC Building](GWC.jpg){:height="300px"} |
+![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="150px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="300px"}
 
 # Nearby Lodging
 
