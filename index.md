@@ -4,8 +4,8 @@ You may download the [workshop program](BICMEE2020_program.pdf) or view details 
 
 * [Registration](#registration)
 * [Workshop Goals](#workshop-goals)
-* [Schedule of Events](#schedule-of-events) ([Monday](#monday-14-january-2019), [Tuesday](#tuesday-15-january-2019))
-* [Meeting Location](#meeting-location)
+* [Schedule of Events](#schedule-of-events)
+* [Meeting Location](#meeting-location) ([Parking Information](#parking-on-campus))
 * [Nearby Lodging](#meeting-location)
 * [Local Organizing Committee](#local-organizing-committee)
 * [Sponsors](#sponsors)
@@ -71,7 +71,7 @@ Tempe, AZ  85281
 
 ![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="200px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="200px"}
 
-## Parking and Walking on Campus
+## Parking on Campus
 
 The Rural Road parking structure is a convenient location to park for
 workshop attendees. Take a ticket when entering the garage and pay when
