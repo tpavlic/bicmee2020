@@ -33,7 +33,7 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 |             | PLENARY |
 | ----------- | ------------------------ |
 | 09:00–10:00 | Sean O'Donnell, Drexel University, Professor and Interim Department Head |
-|             | **_Abstract:_** Brain investment-constraints on growth and development are pervasive in animals, and comparative analyses suggest that brain miniaturization is limited in magnitude relative to most other body structures. I will illustrate some basic patterns of brain/body allometry using my own data from social wasps (Vespidae), and I will explore how major ecological shifts can break clade-typical brain/body allometries. Wasp body allometry patterns also suggest that the need to accommodate relatively large brains can impact body plans as smaller body sizes evolve within a lineage; the challenges of brain housing may even set lower limits on body size. I propose that brain/body allometry is an important overlooked factor in the evolutionary ecology of animal body size. I will then review some (bizarre) examples of brain-driven body plan changes in animal lineages pursuing extreme miniaturization, and I will discuss some of the physiological and cellular limits on the size reduction of brain themselves. |
+|             | _**Abstract:** Brain investment-constraints on growth and development are pervasive in animals, and comparative analyses suggest that brain miniaturization is limited in magnitude relative to most other body structures. I will illustrate some basic patterns of brain/body allometry using my own data from social wasps (Vespidae), and I will explore how major ecological shifts can break clade-typical brain/body allometries. Wasp body allometry patterns also suggest that the need to accommodate relatively large brains can impact body plans as smaller body sizes evolve within a lineage; the challenges of brain housing may even set lower limits on body size. I propose that brain/body allometry is an important overlooked factor in the evolutionary ecology of animal body size. I will then review some (bizarre) examples of brain-driven body plan changes in animal lineages pursuing extreme miniaturization, and I will discuss some of the physiological and cellular limits on the size reduction of brain themselves._ |
 
 |             | COFFEE BREAK |
 | ----------- | ------------ |
@@ -66,6 +66,8 @@ The workshop will take place in [Goldwater Center (GWC), Room 487](https://gis.m
 [Goldwater Center (GWC)](https://gis.m.asu.edu/asucampus/?query=CampusBuilding_7147_1%2CName%2CGoldwater%20Center%20for%20Science%20& Engineering=&extent=-12460266.7297%2C3951200.172%2C-12459908.7297%2C3951380.217%2C102100), Room 487<br>
 [650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
 Tempe, AZ  85281
+
+| ![GWC](GWC.jpg){:height="150px"} | ![GWC 487](GWC487.jpg){:height="150px"} |
 
 # Nearby Lodging
 
