@@ -69,7 +69,7 @@ Tempe, AZ  85281
 
 [![ASU Map](ASUmap.png "Annotated Map of ASU"){:width="500px"}](ASUmap.png)
 
-![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="240px"} [ ![GWC Building](GWC.jpg "Front of GWC Building"){:height="240px"} ](https://goo.gl/maps/JqzLdjv2vGUncwiRA)
+![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="230px"} [![GWC Building](GWC.jpg "Front of GWC Building"){:height="230px"}](https://goo.gl/maps/JqzLdjv2vGUncwiRA)
 
 
 ## Parking on Campus
