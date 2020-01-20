@@ -88,5 +88,5 @@ This workshop can take place due to support in some form from:
   * [School of Computing, Informatics, and Decision Systems Engineering](http://cidse.engineering.asu.edu/)
   * [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/)
 
-[![Arizona State University](asu_logo.png){:height="50px"}](http://www.asu.edu/)<br>
+[![Arizona State University Ira A. Fulton Schools of Engineering](asu_fse_logo.png){:height="50px"}](http://engineering.asu.edu/)<br>
 [![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
