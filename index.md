@@ -64,16 +64,16 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 The workshop will take place in [Goldwater Center (GWC), Room 487](https://gis.m.asu.edu/asucampus/?query=CampusBuilding_7147_1%2CName%2CGoldwater%20Center%20for%20Science%20& Engineering=&extent=-12460266.7297%2C3951200.172%2C-12459908.7297%2C3951380.217%2C102100). Mid-morning and mid-afternoon coffee breaks will be provided on-site. Attendees are on their own for breakfast, lunch, and dinner, but restaurants are within walking distance.
 
 [Goldwater Center (GWC)](https://gis.m.asu.edu/asucampus/?query=CampusBuilding_7147_1%2CName%2CGoldwater%20Center%20for%20Science%20& Engineering=&extent=-12460266.7297%2C3951200.172%2C-12459908.7297%2C3951380.217%2C102100), Room 487<br>
-[650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
+[650 E. Tyler Mall](https://goo.gl/maps/JqzLdjv2vGUncwiRA) [(Google Maps link)](https://goo.gl/maps/JqzLdjv2vGUncwiRA)<br>
 Tempe, AZ  85281
 
-[![ASU Map](ASUmap.png "Annotated Map of ASU"){:width="400px"}](https://goo.gl/maps/JqzLdjv2vGUncwiRA)
+[![ASU Map](ASUmap.png "Annotated Map of ASU"){:width="400px"}](ASUmap.png)
 
 ![GWC 487 Room](GWC487.jpg "Inside of GWC 487"){:height="200px"} ![GWC Building](GWC.jpg "Front of GWC Building"){:height="200px"}
 
 ## Parking on Campus
 
-The Rural Road parking structure (see [map above](#meeting-location)) is
+The Rural Road parking structure (see [map above](ASUmap.png)) is
 a convenient location to park for workshop attendees. Take a ticket when
 entering the garage and pay when exiting either at kiosks or at the
 actual exit gates.
