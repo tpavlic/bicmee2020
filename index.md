@@ -28,7 +28,7 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 
 |             | OPENING REMARKS |
 | ----------- | --------- |
-| 08:30–09:00 | ... |
+| 08:30–09:00 | Brief Opening Remarks |
 
 |             | PLENARY |
 | ----------- | ------------------------ |
@@ -66,6 +66,10 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 | 14:40–15:05 | Tod Newman (Raytheon): Advanced Processing Needs for Defense Applications |
 | 15:05–15:30 | Zheng Li (ASU PhD student): Perception and Prediction Beyond Static Image: On-line Assistance with Spatial and Temporal Relation |
 | 15:30–16:00 | Yu Cao (ASU): On-line Adaptation for Intelligent Dynamic Systems |
+
+|             | CLOSING REMARKS |
+| ----------- | --------- |
+| 16:00–16:15 | Brief Closing Remarks and Reflections |
 
 # Meeting Location
 
