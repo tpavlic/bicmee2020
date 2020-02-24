@@ -28,7 +28,7 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 
 |             | OPENING REMARKS |
 | ----------- | --------- |
-| 08:30–09:00 | Sethuraman "Panch" Panchanathan, ASU EVP and Chief Research and Innovation Officer |
+| 08:30–09:00 | ... |
 
 |             | PLENARY |
 | ----------- | ------------------------ |
