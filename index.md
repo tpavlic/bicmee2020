@@ -37,27 +37,35 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 
 |             | COFFEE BREAK |
 | ----------- | ------------ |
-| 10:00–10:20 | Coffee and light refreshments will be provided |
+| 10:00–10:30 | Coffee and light refreshments will be provided |
 
 |             | SESSION: BIOLOGICAL CASE STUDIES IN MINIATURIZATION |
 | ----------- | --------------------- |
-| 10:40-12:00 | Jon Harrison, Brian Smith, Meghan Bennett, Meghan Duell, Majid Ghaninia |
+| 10:30-10:55 | Meghan Duell: Problem solving by bees of different body/brain sizes |
+| 10:55-11:20 | Brian Smith, Majid Ghaninia: Plasticity in early sensory processing and the evolution of brain architecture in bees of different sizes ||
+| 11:20–11:45 | Jon Harrison, Meghan Bennett: Effect of body size on levels of mitochondrial and transport proteins in the brains of stringless bees |
 
 |             | LUNCH (not provided) |
 | ----------- | ------------ |
-| 12:00–13:00 | Restaurants are nearby within walking distance |
+| 11:45–13:00 | Restaurants are nearby within walking distance |
 
 |             | SESSION: COMPUTATIONAL MODELING |
 | ----------- | -------------------- |
-| 13:00–14:20 | Maxim Bazhenov, Seth Haney, +2, +Intel |
+| 13:00–13:20 | Maxim Bazhenov: Do neural networks need to sleep? |
+| 13:20–13:40 | Seth Haney: Biophysical Modeling of Graph-based Learning in Honey Bee AL |
+| 13:40–13:50 | Wilkie Olin-Ammentorp: Spike-Based Bandit Problems on Loihi |
+| 13:50–14:00 | Aiswarya Akumalla: Neuro-inspired Multimodal Integration |
+| 14:00–14:15 | Ted Pavlic, Jinyung Hong: Knowledge Representation and Reasoning in Small Spaces: Randomly Weighted Networks Provide Higher Expressiveness |
 
 |             | COFFEE BREAK |
 | ----------- | ------------ |
-| 14:20–14:40 | Coffee and light refreshments will be provided |
+| 14:15–14:40 | Coffee and light refreshments will be provided |
 
 |             | SESSION: NEUROMORPHIC COMPUTING |
 | ----------- | -------------------- |
-| 14:40–16:00 | Kevin Cao, +1, +Raytheon |
+| 14:40–15:05 | Tod Newman (Raytheon): Advanced Processing Needs for Defense Applications |
+| 15:05–15:30 | Zheng Li (ASU PhD student): Perception and Prediction Beyond Static Image: On-line Assistance with Spatial and Temporal Relation |
+| 15:30–16:00 | Yu Cao (ASU): On-line Adaptation for Intelligent Dynamic Systems |
 
 # Meeting Location
 
