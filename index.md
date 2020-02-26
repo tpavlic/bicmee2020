@@ -51,15 +51,15 @@ The 1-day event takes place on February 28, 2020. Although no meals are provided
 
 |             | SESSION: COMPUTATIONAL MODELING |
 | ----------- | -------------------- |
-| 13:00–13:20 | Maxim Bazhenov: Do neural networks need to sleep? |
-| 13:20–13:40 | Seth Haney: Biophysical Modeling of Graph-based Learning in Honey Bee AL |
+| 13:00–13:25 | Maxim Bazhenov: Do neural networks need to sleep? |
+| 13:25–13:40 | Seth Haney: Biophysical Modeling of Graph-based Learning in Honey Bee AL |
 | 13:40–13:50 | Wilkie Olin-Ammentorp: Spike-Based Bandit Problems on Loihi |
 | 13:50–14:00 | Aiswarya Akumalla: Neuro-inspired Multimodal Integration |
-| 14:00–14:15 | Ted Pavlic, Jinyung Hong: Knowledge Representation and Reasoning in Small Spaces: Randomly Weighted Networks Provide Higher Expressiveness |
+| 14:00–14:20 | Ted Pavlic, Jinyung Hong: Knowledge Representation and Reasoning in Small Spaces: Randomly Weighted Networks Provide Higher Expressiveness |
 
 |             | COFFEE BREAK |
 | ----------- | ------------ |
-| 14:15–14:40 | Coffee and light refreshments will be provided |
+| 14:20–14:40 | Coffee and light refreshments will be provided |
 
 |             | SESSION: NEUROMORPHIC COMPUTING |
 | ----------- | -------------------- |
