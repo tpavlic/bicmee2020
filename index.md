@@ -130,4 +130,3 @@ This workshop can take place due to support in some form from:
   * [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/)
 
 [![Arizona State University Ira A. Fulton Schools of Engineering](asu_fse_logo.png){:height="50px"}](http://engineering.asu.edu/)
-[![DARPA](darpa_logo.jpg){:height="50px"}](http://www.darpa.mil/)
